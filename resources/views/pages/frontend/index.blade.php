@@ -66,7 +66,7 @@
           >
             <div class="card-shadow rounded-xl">
               <img
-                src="/frontend/images/content/image-catalog-1.png"
+                src="/frontend/images/content/banner.png"
                 alt=""
                 class="w-full h-full object-cover object-center overlay overflow-hidden rounded-xl"
               />
@@ -74,7 +74,7 @@
             <div
               class="overlay left-0 top-0 bottom-0 flex justify-center flex-col pl-48 md:pl-72"
             >
-              <h5 class="text-lg font-semibold">Living Room</h5>
+              <h5 class="text-lg font-semibold">Parfum Pria</h5>
               <span class="">18.309 items</span>
             </div>
             <a href="details.html" class="stretched-link">
@@ -94,7 +94,7 @@
             <div
               class="overlay right-0 left-0 top-0 bottom-0 md:bottom-auto flex justify-center md:items-center flex-col pl-48 md:pl-0 pt-0 md:pt-12"
             >
-              <h5 class="text-lg font-semibold">Decoration</h5>
+              <h5 class="text-lg font-semibold">All Parfume</h5>
               <span class="">77.392 items</span>
             </div>
             <a href="details.html" class="stretched-link">
@@ -106,7 +106,7 @@
           >
             <div class="card-shadow rounded-xl">
               <img
-                src="/frontend/images/content/image-catalog-4.png"
+                src="/frontend/images/content/banner4.png"
                 alt=""
                 class="w-full h-full object-cover object-center overlay overflow-hidden rounded-xl"
               />
@@ -114,7 +114,7 @@
             <div
               class="overlay right-0 left-0 top-0 bottom-0 md:bottom-auto flex justify-center md:items-center flex-col pl-48 md:pl-0 pt-0 md:pt-12"
             >
-              <h5 class="text-lg font-semibold">Living Room</h5>
+              <h5 class="text-lg font-semibold">Parfum sexunitex</h5>
               <span class="">22.094 items</span>
             </div>
             <a href="details.html" class="stretched-link">
@@ -124,7 +124,7 @@
           <div class="relative col-span-9 row-span-1 md:col-span-4 card">
             <div class="card-shadow rounded-xl">
               <img
-                src="/frontend/images/content/image-catalog-2.png"
+                src="/frontend/images/content/banner2.png"
                 alt=""
                 class="w-full h-full object-cover object-center overlay overflow-hidden rounded-xl"
               />
@@ -132,7 +132,7 @@
             <div
               class="overlay left-0 top-0 bottom-0 flex justify-center flex-col pl-48 md:pl-72"
             >
-              <h5 class="text-lg font-semibold">Children Room</h5>
+              <h5 class="text-lg font-semibold">Parfuum Wanita</h5>
               <span class="">837 items</span>
             </div>
             <a href="details.html" class="stretched-link">
